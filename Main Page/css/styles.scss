@@ -1,0 +1,18 @@
+$background-dark: #512DA8;
+$background-pale: #D1C4E9;
+$color-light: #FFFAF0;
+
+.modal-header{
+
+    background-color: $background-dark;
+}
+
+.modal-body{
+
+    background-color: $background-pale;
+ }
+
+ .close{
+
+    color: $color-light;
+}
